@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🐱‍💻 Davi Gussatschenko
 
-<!--
-**DaviGusstschenko/DaviGusstschenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Analista de Dados`**
 
-Here are some ideas to get you started:
+Eu sou Davi Gussatschenko Gil, tenho 22 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Unificado. Atualmente, estou cursando Estatística na UFRGS. Com experiência em análise de dados climáticos e econômicos. Experiência em R e Python para limpeza, modelagem e automação; produção de relatórios e dashboards para apoio à tomada de decisão.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+Competências técnicas
+- Linguagens: R (limpeza, testes, modelagem), Python (scripts, automação), SQL, JavaScript, HTML/CSS.
+- Visualização & BI: Power BI, Tableau, ggplot2 (R), gráficos interativos.
+- Dados & Banco: SQL (consultas, joins), Excel avançado, integração via APIs (Google APIs).
+- Outros: versionamento (Git), documentação (Markdown), técnicas de ETL.
